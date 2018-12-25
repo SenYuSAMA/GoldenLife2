@@ -17,3 +17,11 @@
 需要一个MainActivity：包含了RecyclerView，其每个子项展示其中一个金属种类的报价信息。且每个子项都应该注册点击事件，在点击后启动popActivity。
 需要一个PopActivity：其包含了一个展示详细信息的界面，和一个数据可视化界面，在MainActivity的RecyclerView点击事件后，传来相应的数据bean，且再根据bean中的种类再次去服务端请求更多数据，以展示数据可视化。
 # 图
+## 程序流程图
+![程序流程图](https://github.com/SenYuSAMA/GoldenLife2/blob/master/1.png)
+## 网络交互原理
+![](https://github.com/SenYuSAMA/GoldenLife2/blob/master/2.png)
+## 客户端效果图
+![](https://github.com/SenYuSAMA/GoldenLife2/blob/master/3.png)
+![](https://github.com/SenYuSAMA/GoldenLife2/blob/master/4.png)
+
