@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorDarkBG">#FF1B1A22</color>
+    <color name="colorTextBlue">#FF1478de</color>
+    <color name="colorTextGrey">#9f9ea3</color>
+    <color name="rec_item_bg">#181b22</color>
+    <color name="rec_tv_color">#d0d2e1</color>
+    <color name="rec_pri_red">#de2d3e</color>
+    <color name="rec_pri_green">#227a27</color>
+    <color name="guide_bg_grey">#242633</color>
+    <color name="guide_text_grey">#aeb1c2</color>
+    <color name="data_bg">#181b22</color>
+</resources>
